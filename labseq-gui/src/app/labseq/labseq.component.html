@@ -1,0 +1,7 @@
+<div>
+  <h2>Calculate Labseq Value</h2>
+  <label for="inputN">Enter number : </label>
+  <input type="number" id="inputN" [(ngModel)]="n">
+  <button (click)="calculateLabseq()">Calculate</button>
+  <p *ngIf="result !== undefined">Result: {{ result }}</p>
+</div>
