@@ -1,4 +1,4 @@
-# Exercício de Recrutamento WithUs
+# Exercício labseq
 
 Este projeto consiste na implementação de um serviço REST utilizando uma framework do Java (sugerido o Quarkus), que retorna valores da sequência labseq. 
 Além disso, opcionalmente, foi implementada uma interface web simples em Angular para invocar esse serviço.
